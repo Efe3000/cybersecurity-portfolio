@@ -1,0 +1,27 @@
+Title: Using search engines to properly perfom reconnaissance
+Platform: TryHackMe
+Difficulty: Easy
+
+Objective:
+Using search engines to properly perfom reconnaissance.
+
+Tools Used:
+1 specialized search engines:
+- Google
+- Bing 
+- https://github.com/cipher387/Advanced-search-operators-list
+- Shodan
+- Censys
+- VirusTotal
+- Have I Been Pwned
+2 searching for vulnerabilities: 
+- CVE: https://www.cve.org/
+- lists exploit codes: https://www.exploit-db.com/
+
+
+Steps Taken:
+1. Performed enumeration tactics on authorized websites 
+
+
+Impact:
+Unauthorized access to sensitive information.
